@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
-import java.net.URL;
+import java.net.URL;///
 /*Месяц валялось на диске, но на 14 февраля не пригодилось :С */
 public class Heart {
     static class Window extends JFrame{
