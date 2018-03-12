@@ -16,8 +16,7 @@ public class Heart {
             BufferedImage c = ImageIO.read(url);
             ImageIcon image = new ImageIcon(c);
             setIconImage(image.getImage());
-
-
+            //89
         }
 
         public void doVisible(){
